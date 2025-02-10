@@ -1,6 +1,6 @@
 ---
 title: Home
-feed: show
+feed: hide
 date: 10-02-2025
 ---
 
