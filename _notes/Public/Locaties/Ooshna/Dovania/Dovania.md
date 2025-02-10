@@ -1,5 +1,6 @@
 ---
 title: Dovania
+feed: show
 ---
 
 Het koninkrijk van Dovania is het land waar ons avontuur zich afspeelt, op het continent [[Ooshna]]. Dovania bevindt zich in het noordoosten van het continent en heeft een banaan-achtige vorm. Het land deelt grenzen met [[Rhysa]] in het oosten en [[Kirobi]] in het zuiden. Een cluster aan eilanden is ook onderdeel van het koninkrijk. Het klimaat van Dovania is mild tot koud. 

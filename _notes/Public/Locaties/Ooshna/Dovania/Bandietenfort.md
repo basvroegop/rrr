@@ -1,6 +1,7 @@
 ---
 Type locatie: Dungeon
 title: Bandietenfort
+feed: show
 ---
 
 

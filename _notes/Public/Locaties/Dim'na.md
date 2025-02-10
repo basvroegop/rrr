@@ -1,5 +1,6 @@
 ---
 title: Dim'na
+feed: show
 ---
 
 De wereld waar ons avontuur op plaatsvindt. De locaties hier zijn vaak geïsoleerd van elkaar, omdat veelvuldig gebruik wordt gemaakt van bullar-reizen. Alleen arme mensen, karavaans en verkennende ictubulla reizen over de weg. 

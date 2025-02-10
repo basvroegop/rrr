@@ -1,5 +1,6 @@
 ---
 title: De Walvisbuik
+feed: show
 ---
 
 De beroemde inn gevestigd in [[Grunsted]]. De bodem van de taveerne is gevuld met circa. 50 centimeter water, waar vissen in zwemmen die alle gevallen etensresten opsmikkelen. Deze vissen kunnen ook een complimentaire voetscrub geven aan klanten. 

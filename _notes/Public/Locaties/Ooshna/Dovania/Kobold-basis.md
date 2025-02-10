@@ -1,6 +1,7 @@
 ---
 Type locatie: Dungeon
 title: Kobold-basis
+feed: show
 ---
 
 

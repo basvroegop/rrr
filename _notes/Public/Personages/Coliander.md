@@ -5,6 +5,7 @@ Locatie: Bandietenfort
 Status: Levend
 Soort: Elf
 title: Coliander
+feed: show
 ---
 
 Een elf die gevangen was genomen in de [[Kobold-basis]]. Bleek later als bandiet te werken in het [[Bandietenfort]].

@@ -4,6 +4,7 @@ Positie: Hertog
 Locatie: Blackreef-eiland
 Status: Levend
 title: Jurto
+feed: show
 ---
 
 Hertog van [[Blackreef-eiland]].

@@ -1,5 +1,6 @@
 ---
 title: Ooshna
+feed: show
 ---
 
 Het continent waar ons avontuur zich afspeelt, op de wereld [[Dim'na]]. Ooshna is een oude, diverse landmassa omsingeld door eilanden die er officieel onderdeel van uitmaken. 

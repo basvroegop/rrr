@@ -1,6 +1,7 @@
 ---
 Type locatie: Dorp
 title: Grunsted
+feed: show
 ---
 
 
