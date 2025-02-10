@@ -1,6 +1,7 @@
 ---
 title: Overzicht losse notities
 feed: hide
+format: list
 ---
 
 Hieronder vind je de notitie van iedere losse sessie.
