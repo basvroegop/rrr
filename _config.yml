@@ -27,16 +27,16 @@ baseurl: ""
 
 # Website Header, Description, Footer year and text. 
 # If you are deleting this, make sure you remove it from HTML files too 
-heading: Jekyll Garden # Change this 
-content: Obsidian ready Jekyll Theme
+heading: Randolph's Razende Rakkers # Change this 
+content: Notities voor de leukste groep van Dungeons & Drachtsters.
 copyright:  
   year: © 2022
   msg: Contents under CC-BY-NC 
 
 # Set title and content for private & broken link tooltop
 privatelinks:
-  title: Private or Broken Links
-  msg: The page you're looking for is either not available or private!
+  title: Niet-werkende link
+  msg: Deze pagina is (nog) niet beschikbaar!
 
 # Theme level preferences
 # To enable set "enabled : true" else, use "enabled:false"
