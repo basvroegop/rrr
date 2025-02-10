@@ -1,7 +1,7 @@
 ---
-
 title: Home
-
+feed: show
+date: 10-02-2025
 ---
 
 ![7yZgndD.jpeg](https://i.imgur.com/7yZgndD.jpeg)
