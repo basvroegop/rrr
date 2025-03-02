@@ -7,4 +7,4 @@ title: Jurto
 feed: show
 ---
 
-Hertog van [[Blackreef-eiland]].
+Hertog van [[Zwartstrand Eiland]].
