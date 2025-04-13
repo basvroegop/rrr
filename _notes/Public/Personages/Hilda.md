@@ -1,1 +1,6 @@
-Barvrouw in de taveerne van [Grindhuizen].
+---
+title: Hilda
+feed: show
+---
+
+Barvrouw in de taveerne van [[Hilda]].
