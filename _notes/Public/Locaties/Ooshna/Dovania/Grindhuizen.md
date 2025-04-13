@@ -11,4 +11,4 @@ Een dorp ten noorden van Grunsted. Heette ooit Schmekkelton, vernoemd naar oud-l
 
 ## Notabele inwoners
 - [[Karel Honingkorf]]
-- [[Hilda]]]
+- [[Hilda]]
