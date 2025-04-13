@@ -7,4 +7,4 @@ title: Jurto
 feed: show
 ---
 
-Hertog van [[Zwartstrand Eiland]].
+Hertog van [[Zwartstrand]].

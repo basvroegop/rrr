@@ -9,7 +9,7 @@ Het koninkrijk van Dovania is het land waar ons avontuur zich afspeelt, op het c
 ## Dorpen en steden van Dovania
 
 - [[Grunsted]]
-- [[Zwartstrand Eiland]]
+- [[Zwartstrand]]
 
 ## Andere locaties
 
@@ -31,5 +31,5 @@ Het koninkrijk van Dovania is het land waar ons avontuur zich afspeelt, op het c
 - [[Coliander]]
 - Burgermeester [[Markon Silverlight]] van [[Grunsted]].
 - Voormalig koning [[Remi]]
-- Hertog [[Jurto]] van [[Zwartstrand Eiland]]
+- Hertog [[Jurto]] van [[Zwartstrand]]
 

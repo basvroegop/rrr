@@ -1,0 +1,1 @@
+De oude leider van [Grindhuizen], waar hij als een soort Trump bewind voerde.
