@@ -8,7 +8,7 @@ Een mediumgroot eiland en vazalstaat van [[Dovania]]. Wordt geregeerd door herto
 De groep kwam tijdens [[2025-02-09 - Sessie 4]] een gecodeerde boodschap tegen van [[Thurz]], waarin werd verwezen naar de Onyxberg op Zwartstrand Eiland.
 
 ## Locaties op Zwartstrand
-- [[Guntherskust]]]
+- [[Guntherskust]]
 - Zwarte Kliffen (zuidwesten)
 - Grijze Heuvels (noorden)
 - Onyxberg (zuidoosten)
