@@ -1,7 +1,11 @@
 ---
-title: De Grote Acht
+title: Goden
 feed: show
 ---
+
+Goden in de wereld zijn opgesplitst in meerdere categorieën: de Grote Acht (en de Negende),  de Twintig en Mindere Goden.
+
+## De Grote Acht
 
 De acht voornaamste Goden van de acht domeinen. Alle acht ontstonden toen de Ene zichzelf in acht delen opsplitste, zodat aan zijn eeuwige eenzaamheid een einde kon komen. Helaas manifesteerde de eenzaamheid van de Ene zich als de Negende.
 
