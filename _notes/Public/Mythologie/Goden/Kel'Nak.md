@@ -1,5 +1,5 @@
 ---
-title: Kel'nak
+title: Kel'Nak
 feed: show
 ---
 
