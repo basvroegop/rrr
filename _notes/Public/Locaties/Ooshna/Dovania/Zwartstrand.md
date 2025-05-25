@@ -12,6 +12,6 @@ De groep kwam tijdens [[2025-02-09 - Sessie 4]] een gecodeerde boodschap tegen v
 - Zwarte Kliffen (zuidwesten)
 - Grijze Heuvels (noorden)
 - Onyxberg (zuidoosten)
-- Zwartsteen - een dorp
+- [[Zwartsteen]]
 - Zwartoestersbaai
 - Het Zonnewoud - een bos getroffen door een schimmelvirus
