@@ -2,7 +2,7 @@
 feed: show
 title: Mysterium Corpus
 ---
-Een groep magiërs die in de onderwereld schimmige diensten aanbieden. Hun logo is een grijs-groen torso van een mens met de armen, benen en nek afgehakt. De cult wordt geleid door een krachtige lich die enkel bekend staat als [[De Prins]]. 
+Een groep magiërs die in de onderwereld schimmige diensten aanbieden. Hun logo is een grijs-groen torso van een mens met de armen, benen en nek afgehakt. De cult wordt geleid door heer [[Thurz]].
 
 De groep kwam ze voor het eerst tegen in de [[Cultistengrot]], nadat ze [[Donnie]] hadden aangevallen.
 
